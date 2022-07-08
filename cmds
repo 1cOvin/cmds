@@ -1,0 +1,86 @@
+
+    [1] -Play Me/All/Others AudioID (Plays The Audio)
+
+    [2] -Stop all (Stops Everyones Audio)
+    
+    [3] -Kill Player/Others (Kills The Player)
+    
+    [4] -lp Others (Kills Them Forever Until They Leave)
+    
+    [5] -unlp Player/Others (Unloopkills Them)
+    
+    [6] -God Me/Player/Others (Gods them for only one round, cannot be killable)
+    
+    [7] -Ungod Me/Player/Others (Tries to Ungod, you might aswell wait for the round to end so they be ungoddable.)
+    
+    [8] -Loopgod Me/Player/Others (Gods You/Them Forever)
+    
+    [9] -Unloopgod Me/Player/Others (Tries to unloopgod next round)
+    
+    [10] -dm Player/All/Others number (Damages People HP)
+    
+    [11] -heal Player/All/Others number (Heals People HP)
+    
+    [12] -whitelist Player/All/Others (Whitelists The Guy And Will Have Permissions To Abuse)
+    
+    [13] -remove Player/All/Others (Tries To Removes The Whitelist)
+    
+    [14] -cloak (Makes you invisible to others, but makes you not invisible to you)
+    
+    [15] -ws (Walkspeeds 50)
+    
+    [16] -wsf (Walkspeeds 120)
+    
+    [17] -wsn (Walkspeeds Normally)
+    
+    [18] -ml (Turns Message Logger On)
+    
+    [19] -fly (Makes You Fly)
+    
+    [20] -unfly (Makes You Unfly, If this Doesnt Work Reset)
+    
+    [21] -roles (Exposes Everyones Identity In The Chat Once The Round Starts)
+    
+    [22] -rapegui (Loads Bloody X Rape Gui)
+    
+    [23] -hatspin (Makes Your Hats Spin In A Circle At Speed)
+    
+    [24] -twerk (Makes Your Character Twerk)
+    
+    [25] -crazy (Makes Your Character Go Crazy)
+    
+    [26] -lay (Makes Your Character Lay)
+    
+    [27] -getup (Makes Your Character Get Up)
+    
+    [28] -floodchat (Floods The Chat For A Second) [Disclaimer: This Can Get Your Account Warning Or Ban, Recommend Doing It Once/Twice.)
+    
+    [29] -noclip (Makes You Go Through Walls)
+    
+    [30] -clip (Stops Making You Go Through Walls)
+    
+    [31] -shiftlock (Makes You Shiftlock In Game)
+    
+    [32] -ms (Checks Your FPS In-Game)
+
+    [33] -knife (Spawns Normal Spam Knife)
+    
+    [34] -illuminati (Spawns Illuminati Spam Knife)
+    
+    [35] -quickscope (Spawns Quickscope Spam Knife)
+    
+    [36] -tesla (Spawns Tesla Knife Spam Knife)
+    
+    [37] -laser (Spawns Laser Knife Spam Knife)
+    
+    [38] -boomblade (Spawns Boomblade Knife Spam Knife)
+    
+    [39] -AudioL (Loads An Audio Logger)
+    
+    [40] -esp (Loads ESP, Green = Innocent | Blue = Sherrif | Red = Murderer)
+    
+    [41] -invreset (Invisible Resets The Local Player, Makes No Noise!)
+    
+    [42] -rmvlegs (Removes Your Legs)
+    
+    [43] -rmvarms (Removes Your Arms)
